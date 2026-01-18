@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of D-Hz: Detroit Audio Architect",
+  "description": "A Suno V5 prompt engineering tool powered by the D-Hz persona, specializing in high-fidelity audio upscaling and deterministic prompt generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
